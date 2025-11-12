@@ -222,7 +222,7 @@ journalctl --user -u wayvnc.service -f
 This project was co-created with **Claude Code** by Anthropic.
 
 - **AI Assistant**: Claude (Sonnet 4.5 model: `claude-sonnet-4-5-20250929`)
-- **Tool**: [Claude Code](https://docs.claude.com/claude-code) - AI-powered CLI for software development
+- **Tool**: [Claude Code](https://docs.claude.com/claude-code) v2.0.37 - AI-powered CLI for software development
 - **Contribution**: Research, debugging, configuration, documentation, and automation
 
 All code, configurations, and documentation were developed collaboratively through 6 debugging sessions over 2 days.

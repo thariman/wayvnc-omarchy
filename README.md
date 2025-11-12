@@ -235,7 +235,7 @@ This setup is the result of 6 debugging and configuration sessions:
 This project was co-created with **Claude Code** by Anthropic.
 
 - **AI Assistant**: Claude (Sonnet 4.5 model: `claude-sonnet-4-5-20250929`)
-- **Tool**: [Claude Code](https://docs.claude.com/claude-code) - AI-powered CLI for software development
+- **Tool**: [Claude Code](https://docs.claude.com/claude-code) v2.0.37 - AI-powered CLI for software development
 - **Development Period**: November 2025
 - **Sessions**: 6 debugging and configuration sessions over 2 days
 - **Contribution**: Research, debugging, configuration, documentation, and automation
